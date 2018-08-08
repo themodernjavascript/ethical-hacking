@@ -1,8 +1,8 @@
 # Ethical Hacking
 
-01. What is Hacking?
-02. What is Cybercrime?
-03. What is Ethical Hacking?
+01. [What is Hacking?](/content/01-what-is-hacking.md)
+02. [What is Cybercrime?](/content/02-what-is-cybercrime.md)
+03. [What is Ethical Hacking?](/content/03-what-is-ethical-hacking.md)
 04. Potential Security Threats To Your Computer Systems
 05. Skills Required to Become a Ethical Hacker
 06. Top 6 Ethical Hacking Tools
