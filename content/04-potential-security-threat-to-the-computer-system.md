@@ -59,3 +59,11 @@ The non-physical threats are also known as logical threats:
 * Unauthorized access to computer systems resources such as data
 * Phishing
 * Other Computer Security Risks
+
+## How to Protect Computer Systems from Non-physical Threat?
+
+To protect computer systems from the None-physical threats, an organization must have logical security measures in place. The following list shows some of the possible measures that can be taken to protect cyber security threats:
+
+* To protect against viruses, Trojans, worms, ..., etc. an organization can use anti-virus software. In additional to the anti-virus software, an organization can also have control measures on the usage of external storage devices and visiting the website that is most likely to download unauthorized programs onto the user’s computer.
+* Unauthorized access to computer system resources can be prevented by the use of authentication methods. The authentication methods can be, in the form of user ids and strong passwords, smart cards or biometric, ..., etc.
+* Intrusion-detection/prevention systems can be used to protect against denial of service attacks.There are other measures too that can be put in place to avoid denial of service attacks.
