@@ -34,3 +34,28 @@ To protect computer systems from physical threats, an organization must have phy
 * Internal: Fire threats could be prevented by the use of automatic fire detectors and extinguishers that do not use water to put out a fire. The unstable power supply can be prevented by the use of voltage controllers. An air conditioner can be used to control the humidity in the computer room.
 * External: Lightning protection systems can be used to protect computer systems against such attacks. Lightning protection systems are not 100% perfect, but to a certain extent, they reduce the chances of Lightning causing damage. Housing computer systems in high lands are one of the possible ways of protecting systems against floods.
 * Humans: Threats such as theft can be prevented by use of locked doors and restricted access to computer rooms.
+
+## What are Non-physical Threat?
+
+A non-physical threat is a potential cause of an incident that may result in:
+
+* Loss or corruption of system data
+* Disrupt business operations that rely on computer systems
+* Loss of sensitive information
+* Illegal monitoring of activities on computer systems
+* Cyber Security Breaches
+* Others
+
+The non-physical threats are also known as logical threats:
+
+* Virus
+* Trojans
+* Worms
+* Spyware
+* Key loggers
+* Adware
+* Denial of Service Attacks
+* Distributed Denial of Service Attacks
+* Unauthorized access to computer systems resources such as data
+* Phishing
+* Other Computer Security Risks
